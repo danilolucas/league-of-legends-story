@@ -1,1 +1,1 @@
-# league-of-legends-story
+# League of Legends Story (Delphi 7 Game)
